@@ -11,6 +11,7 @@
 ## Contiene
 - Vacunación
   - [Dosis aplicadas](https://nbviewer.jupyter.org/github/leo1q/Codavi-CL/blob/main/data/CantidadDosisAplicadas.ipynb)
+  - [Fallecidos Etario](https://nbviewer.jupyter.org/github/leo1q/Codavi-CL/blob/main/data/FallecidosEtario.ipynb)
 
 
 ## Fuente de datos
