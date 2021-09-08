@@ -1,5 +1,6 @@
+![codavi-logo](https://i.imgur.com/q9Z8MtO.png)
+
 <div align="center">
-  <h1>Codavi :bar_chart:</h1>
   <a href="https://github.com/manucabral/COVID-19-Davi/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-red.svg" alt="licence"> </a>
   <a href="https://www.python.org/downloads/release/python-360/"><img src="https://img.shields.io/badge/python-3.9.1-blue.svg" alt="Python"> </a>
   <a href="https://nodejs.org/es/"><img src="https://img.shields.io/badge/Node-14.15.3-00610d.svg" alt="Node"> </a>
